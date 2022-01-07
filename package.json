@@ -1,8 +1,8 @@
 {
-  "name": "po2json",
+  "name": "@rjaros/po2json",
   "description": "Convert PO files to JSON",
-  "version": "1.0.0-beta-3",
-  "homepage": "https://github.com/mikeedwards/po2json",
+  "version": "1.0.0-beta-4",
+  "homepage": "https://github.com/rjaros/po2json",
   "author": {
     "name": "Joshua I. Miller",
     "email": "unrtst@cpan.org"
@@ -41,10 +41,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikeedwards/po2json.git"
+    "url": "git://github.com/rjaros/po2json.git"
   },
   "bugs": {
-    "url": "https://github.com/mikeedwards/po2json/issues"
+    "url": "https://github.com/rjaros/po2json/issues"
   },
   "license": "LGPL-2.0-or-later",
   "bin": {
